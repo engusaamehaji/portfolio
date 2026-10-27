@@ -27,27 +27,6 @@ Output goes to the `dist/` folder.
 
 ---
 
-## Deploy to Vercel (Free)
-
-1. Push this folder to a GitHub repository
-2. Go to https://vercel.com and sign in
-3. Click "New Project" and import your GitHub repo
-4. Leave all settings as default — Vercel detects Vite automatically
-5. Click Deploy
-
-Your site will be live at `https://your-project.vercel.app`
-
----
-
-## Deploy to Netlify (Free)
-
-1. Go to https://netlify.com and sign in
-2. Drag and drop the `dist/` folder onto the Netlify dashboard
-   OR connect your GitHub repo for automatic deploys
-3. Done — your site is live instantly
-
----
-
 ## Project Structure
 
 ```
